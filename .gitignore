@@ -85,3 +85,4 @@ yarn.lock
 *.pem
 config.json
 config/base.cfg
+install/install.lock
