@@ -17,7 +17,6 @@
 *.epj
 
 www/node_modules
-test*
 
 
 .DS_Store
@@ -68,7 +67,7 @@ POMS_Station.dist/
 poslabel/
 *.patch
 *.spec
-test*.*
+#test*.*
 ui/test*
 dist/
 build/
@@ -83,6 +82,5 @@ yarn.lock
 
 # this project
 *.pem
-config.json
 config/base.cfg
 install/install.lock
